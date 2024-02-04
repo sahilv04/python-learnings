@@ -5,3 +5,4 @@
 ## exception handling
 ## pickle
 ## partial functions
+## reduce function
